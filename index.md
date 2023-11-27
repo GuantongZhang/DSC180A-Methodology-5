@@ -1,6 +1,5 @@
 # DSC180A Methodology 5
-Guantong Zhang
-g4zhang@ucsd.edu
+Guantong Zhang (g4zhang@ucsd.edu)
 
 ## Section and Mentor
 - Section: B02
